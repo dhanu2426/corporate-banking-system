@@ -1,0 +1,11 @@
+# Backend .dockerignore
+# Location: corporate-banking-backend/.dockerignore
+
+target/
+.mvn/
+*.iml
+.idea/
+.vscode/
+*.log
+.DS_Store
+README.md

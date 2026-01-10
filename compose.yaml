@@ -1,0 +1,6 @@
+services:
+  virtusaproject:
+    image: virtusaproject
+    build:
+      context: .
+      dockerfile: ./Dockerfile
